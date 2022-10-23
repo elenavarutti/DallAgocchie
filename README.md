@@ -1,6 +1,6 @@
 # Note sul progetto
 
-Questa trascrizione di "Dell'arte di scrimia" di Giovanni dall'Agocchie è stata fatta per agevolare lo studio del trattato stesso. Mi sono pertanto preso qualche libertà nella trascrizione dello stesso effettuando scelte trascrittive che agevolassero la lettura e l'eventuale copiatura del testo per utilizzo in eventuali dispense.
+Questa trascrizione dell'opera "Dell'arte di scrimia" di Giovanni dall'Agocchie è stata fatta per agevolare lo studio del trattato stesso. Mi sono pertanto preso qualche libertà nella trascrizione dello stesso effettuando scelte trascrittive che agevolassero la lettura e l'eventuale copiatura del testo per utilizzo in eventuali dispense.
 
 Le maggiori libertà che mi sono prese sono state nell'inserire paragrafi nei discorsi più lunghi, o nelle descrizioni delle tecniche e delle azioni, sempre comunque rispettando la punteggiatura originale (dato che il testo è privo di "a capo"). 
 Altre differenze degne di piccola nota sono le aggiunte di accenti dove mancano e modificato i vari `qual'è` in `qual è` ma per il resto \(apostrofi, virgole, acca e ij a indicare `i` lunghe in finale di parola\) sono rimaste come nella copia che ho per consultazione. 
